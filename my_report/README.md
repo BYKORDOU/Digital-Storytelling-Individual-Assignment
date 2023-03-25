@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Αγγελική Κορδού
+### University Registration Number: dpsd19138
 ### GitHub Personal Profile: xxx
 ### Digital-Storytelling-Individual-Assignment: xxx
 
